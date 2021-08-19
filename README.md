@@ -1,1 +1,2 @@
 # Heat-Energy-Storage-Analyzer
+Heat Storage Analyzer is a heat transfer analyzer program I created in MATLAB capable of carrying out a detailed study of the constant mass model for a heat transfer event. The transitional analysis between two phases of a PCM type material (Phase Change Material) is simulated in order to find the characteristic behavioral heat transfer curves where the position of the interface, the length of the bar, the change in mass and the absorbed energy are theoretically calculated.
